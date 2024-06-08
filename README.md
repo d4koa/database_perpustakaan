@@ -1,6 +1,11 @@
 Assalamu'alaikum..
 Bismillah..
 
+Anggota Kelompok
+* Dani Akhmad Maulana 2230511007
+* Faisal Triaputra 2230511042
+* Raditya Bagja Saputra 2230511045
+
 Database Perpustakaan
 Fitur yang mungkin dapat diterapkan
 * Staff sebagai administrator
