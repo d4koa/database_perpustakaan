@@ -26,12 +26,12 @@ Dalam database perpustakaan terdapat beberapa tabel dan view,
 berikut adalah tabel dan view yang dimaksud
 
 Tabel
-1. STAFF
+1. BUKU
 2. MEMBER
-3. BUKU
-4. PENGUNJUNG
-5. PEMINJAMAN
-6. PENGEMBALIAN
+3. PEMINJAMAN
+5. PENGEMBALIAN
+6. PENGUNJUNG
+7. STAFF
 
 
 
