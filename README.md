@@ -3,7 +3,6 @@ Assalamu'alaikum..
 Pada kesempatan kali ini, kami akan menjabarkan query atau script tentang database perpustakaan. Kami cantumkan beberapa file script pada folder yang bernama perpustakaan.
 
 Berikut adalah identitas kami
-
 Anggota Kelompok 3
 * Dani Akhmad Maulana 2230511007
 * Faisal Triaputra 2230511042
@@ -16,7 +15,6 @@ Fitur yang mungkin dapat diterapkan
 * Peminjaman dan pengembalian buku yang tercatat
 
 Dalam database perpustakaan terdapat beberapa tabel dan view, berikut adalah tabel dan view yang dimaksud
-
 Tabel
 * STAFF
 * MEMBER
