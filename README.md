@@ -5,12 +5,14 @@ Pada kesempatan kali ini, kami akan menjabarkan query atau script tentang databa
 Kami cantumkan dua file script pada folder yang bernama database_perpustakaan.
 
 
+
 Berikut adalah identitas kami
 
 Anggota Kelompok 3
 * Dani Akhmad Maulana 2230511007
 * Faisal Triaputra 2230511042
 * Raditya Bagja Saputra 2230511045
+
 
 
 Database Perpustakaan
@@ -30,6 +32,7 @@ Tabel
 * PENGUNJUNG
 * PEMINJAMAN
 * PENGEMBALIAN
+
 
 
 View
