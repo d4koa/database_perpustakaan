@@ -62,6 +62,8 @@ CREATE TABLE PENGEMBALIAN (
     ID_MEMBER CHAR(7) REFERENCES MEMBER(ID_MEMBER)
 );
 
+-- Nama database : PERPUSTAKAAN
+-- Software DBMS : ORACLE APEX
 -- Bagian        : CREATE VIEW
 
 -- Membuat beberapa view dengan beberapa kondisi
@@ -184,6 +186,8 @@ FROM PENGUNJUNG
 GROUP BY TGL_KUNJUNGAN
 ORDER BY TGL_KUNJUNGAN ASC;
 
+-- Nama database : PERPUSTAKAAN
+-- Software DBMS : ORACLE APEX
 -- Bagian        : INSERT DATA
 
 -- Memasukkan beberapa data pada beberapa tabel
