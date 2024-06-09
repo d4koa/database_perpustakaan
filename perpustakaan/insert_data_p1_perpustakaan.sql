@@ -5,25 +5,40 @@
 -- Memasukkan beberapa data pada beberapa tabel part_1
 -- Memasukkan data buku pada tabel BUKU
 INSERT ALL
-    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) VALUES ('BK0001', 'Akuntansi Pengantar 1', '2009', '978-979-107-882-5', 'Supardi', 'Gava Media')
-    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) VALUES ('BK0002', 'Aplikasi Klinis Induk Ovulasi & Stimulasi Ovariu', '2013', '978-979-328-876-5', 'Samsulhadi', 'Sagung Seto')
-    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) VALUES ('BK0003', 'Aplikasi Praktis Asuhan Keperawatan Keluarga', '2012', '978-602-867-404-1', 'Komang Ayu Heni', 'Sagung Seto')
-    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) VALUES ('BK0004', 'Bangsa gagal ; Mencari identitas kebangsaan', '2008', '978-979-128-365-6', 'Nasrudin Anshoriy', 'LKiS')
-    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) VALUES ('BK0005', 'Biografi Gus Dur ; The Authorized Biography of KH. Abdurrahman Wahid (Soft Cover)', '2011', '978-979-338-125-1', 'Greg Barton', 'LKiS')
-    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) VALUES ('BK0006', 'Cedera Kepala', '2013', '978-602-867-497-3', 'M. Z. Arifin', 'Sagung Seto')
-    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) VALUES ('BK0007', 'Kolaborasi PHP 5 dan Mysql untuk pengembangan website + cd', '2014', '978-979-294-344-3', 'Eko Priya Utomo', 'Andi Offset')
-    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) VALUES ('BK0008', 'Lembaga keuangan Islam', '2015', '978-602-873-012-9', 'Nurul Huda', 'PRENADA MEDIA GRUP')
-    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) VALUES ('BK0009', 'Strategic Management', '2016', '978-979-769-632-0', 'Sofjan Assauri', 'Rajagrafindo Persada')
-    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) VALUES ('BK0010', 'Tuntunan Praktis : Pengembangan Aplikasi Sistem Informasi Geografis berbasis Dekstop dan Web + CD', '2009', '978-979-107-870-2', 'Riyanto', 'Gava Media')
+    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) 
+    VALUES ('BK0001', 'Akuntansi Pengantar 1', '2009', '978-979-107-882-5', 'Supardi', 'Gava Media')
+    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) 
+    VALUES ('BK0002', 'Aplikasi Klinis Induk Ovulasi & Stimulasi Ovariu', '2013', '978-979-328-876-5', 'Samsulhadi', 'Sagung Seto')
+    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) 
+    VALUES ('BK0003', 'Aplikasi Praktis Asuhan Keperawatan Keluarga', '2012', '978-602-867-404-1', 'Komang Ayu Heni', 'Sagung Seto')
+    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) 
+    VALUES ('BK0004', 'Bangsa gagal ; Mencari identitas kebangsaan', '2008', '978-979-128-365-6', 'Nasrudin Anshoriy', 'LKiS')
+    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) 
+    VALUES ('BK0005', 'Biografi Gus Dur ; The Authorized Biography of KH. Abdurrahman Wahid (Soft Cover)', '2011', '978-979-338-125-1', 'Greg Barton', 'LKiS')
+    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) 
+    VALUES ('BK0006', 'Cedera Kepala', '2013', '978-602-867-497-3', 'M. Z. Arifin', 'Sagung Seto')
+    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) 
+    VALUES ('BK0007', 'Kolaborasi PHP 5 dan Mysql untuk pengembangan website + cd', '2014', '978-979-294-344-3', 'Eko Priya Utomo', 'Andi Offset')
+    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) 
+    VALUES ('BK0008', 'Lembaga keuangan Islam', '2015', '978-602-873-012-9', 'Nurul Huda', 'PRENADA MEDIA GRUP')
+    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) 
+    VALUES ('BK0009', 'Strategic Management', '2016', '978-979-769-632-0', 'Sofjan Assauri', 'Rajagrafindo Persada')
+    INTO BUKU (ID_BUKU, JUDUL_BUKU, TAHUN_TERBIT, ISBN, PENGARANG, PENERBIT) 
+    VALUES ('BK0010', 'Tuntunan Praktis : Pengembangan Aplikasi Sistem Informasi Geografis berbasis Dekstop dan Web + CD', '2009', '978-979-107-870-2', 'Riyanto', 'Gava Media')
 SELECT 1 FROM DUAL;
 
 -- Memasukkan data staff pada tabel STAFF
 INSERT ALL
-    INTO STAFF (ID_STAFF, NAMA_LENGKAP, USERNAME, PASSWORD, GENDER, ALAMAT, NO_TELP, CREATED_AT) VALUES ('ADM001', 'Ali', 'ali', 'ali', '1', 'Nanggeleng', '081234567890', TO_DATE('05-06-2024', 'DD-MM-YYYY'))
-    INTO STAFF (ID_STAFF, NAMA_LENGKAP, USERNAME, PASSWORD, GENDER, ALAMAT, NO_TELP, CREATED_AT) VALUES ('ADM002', 'Ahmad', 'ahmad', 'ahmad', '1', 'Ciaul', '081298765432', TO_DATE('05-06-2024', 'DD-MM-YYYY'))
-    INTO STAFF (ID_STAFF, NAMA_LENGKAP, USERNAME, PASSWORD, GENDER, ALAMAT, NO_TELP, CREATED_AT) VALUES ('ADM003', 'Hasan', 'hasan', 'hasan', '1', 'Cikole', '081212345678', TO_DATE('05-06-2024', 'DD-MM-YYYY'))
-    INTO STAFF (ID_STAFF, NAMA_LENGKAP, USERNAME, PASSWORD, GENDER, ALAMAT, NO_TELP, CREATED_AT) VALUES ('ADM004', 'Faqih', 'faqih', 'faqih', '1', 'Baros', '081278945612', TO_DATE('05-06-2024', 'DD-MM-YYYY'))
-    INTO STAFF (ID_STAFF, NAMA_LENGKAP, USERNAME, PASSWORD, GENDER, ALAMAT, NO_TELP, CREATED_AT) VALUES ('ADM005', 'Hilman', 'hilman', 'hilman', '1', 'Dayeuhluhur', '081256789012', TO_DATE('05-06-2024', 'DD-MM-YYYY'))
+    INTO STAFF (ID_STAFF, NAMA_LENGKAP, USERNAME, PASSWORD, GENDER, ALAMAT, NO_TELP, CREATED_AT) 
+    VALUES ('ADM001', 'Ali', 'ali', 'ali', '1', 'Nanggeleng', '081234567890', TO_DATE('05-06-2024', 'DD-MM-YYYY'))
+    INTO STAFF (ID_STAFF, NAMA_LENGKAP, USERNAME, PASSWORD, GENDER, ALAMAT, NO_TELP, CREATED_AT) 
+    VALUES ('ADM002', 'Ahmad', 'ahmad', 'ahmad', '1', 'Ciaul', '081298765432', TO_DATE('05-06-2024', 'DD-MM-YYYY'))
+    INTO STAFF (ID_STAFF, NAMA_LENGKAP, USERNAME, PASSWORD, GENDER, ALAMAT, NO_TELP, CREATED_AT) 
+    VALUES ('ADM003', 'Hasan', 'hasan', 'hasan', '1', 'Cikole', '081212345678', TO_DATE('05-06-2024', 'DD-MM-YYYY'))
+    INTO STAFF (ID_STAFF, NAMA_LENGKAP, USERNAME, PASSWORD, GENDER, ALAMAT, NO_TELP, CREATED_AT) 
+    VALUES ('ADM004', 'Faqih', 'faqih', 'faqih', '1', 'Baros', '081278945612', TO_DATE('05-06-2024', 'DD-MM-YYYY'))
+    INTO STAFF (ID_STAFF, NAMA_LENGKAP, USERNAME, PASSWORD, GENDER, ALAMAT, NO_TELP, CREATED_AT) 
+    VALUES ('ADM005', 'Hilman', 'hilman', 'hilman', '1', 'Dayeuhluhur', '081256789012', TO_DATE('05-06-2024', 'DD-MM-YYYY'))
 SELECT 1 FROM DUAL;
 
 -- Memasukkan data member pada tabel MEMBER
