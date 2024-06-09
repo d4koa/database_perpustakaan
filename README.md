@@ -1,7 +1,8 @@
 Assalamu'alaikum..
 
 Pada kesempatan kali ini, kami akan menjabarkan query atau script tentang database perpustakaan.
-Kami cantumkan beberapa file script pada folder yang bernama perpustakaan.
+
+Kami cantumkan dua file script pada folder yang bernama database_perpustakaan.
 
 
 Berikut adalah identitas kami
